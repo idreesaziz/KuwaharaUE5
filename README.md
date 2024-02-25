@@ -1,5 +1,7 @@
 # KuwaharaUE5
 ![This image showcases the visual effect achieved by applying this filter in Unreal Engine 5.](Kuwahara/HighresScreenshot00018.png)
+This image showcases the visual effect achieved by applying this filter in Unreal Engine 5.
+
 Unreal Engine 5 Kuwahara Filter Implementation
 This repository contains an implementation of the Kuwahara filter for Unreal Engine 5. The Kuwahara filter is an image processing technique that produces a "painterly" effect by reducing noise and preserving edges.
 
